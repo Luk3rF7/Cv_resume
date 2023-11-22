@@ -22,6 +22,14 @@ b {
   display: flex;
   flex-wrap: wrap;
 }
+a i {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: #000;
+  text-decoration: none;
+  margin: 10px 45px;
+}
 .left-column {
   flex: 33%;
   background-color: #fff5ef;
